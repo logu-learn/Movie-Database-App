@@ -1,0 +1,26 @@
+.movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movie-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+
+.movie-image {
+  width: 100%;
+  height: auto;
+}
+
+.movie-title {
+  font-size: 1.1em;
+  margin-top: 10px;
+}
+
+.movie-rating {
+  font-size: 0.9em;
+  color: #888;
+}
